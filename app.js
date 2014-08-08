@@ -21,7 +21,10 @@ Ext.application({
         'Ext.MessageBox'
     ],
 
+
+
     launch: function(){
+        Ext.fly('carregando').destroy();
         Ext.create('CandidatoOnline.view.MainView', {fullscreen: true});
     },
 
