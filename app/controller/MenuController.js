@@ -32,6 +32,6 @@ Ext.define('CandidatoOnline.controller.MenuController', {
     },
 
     abrirUtil:function(){
-        this.getMainView().avancar(3);
+        this.getMainView().avancar(2);
     }
 });

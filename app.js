@@ -14,14 +14,15 @@ Ext.application({
 
     controllers: [
         'HomeController',
-        'MenuController'
+        'MenuController',
+        'PesquisaController',
+        'ContaController',
+        'UteisController'
     ],
 
     requires: [
         'Ext.MessageBox'
     ],
-
-
 
     launch: function(){
         Ext.fly('carregando').destroy();
