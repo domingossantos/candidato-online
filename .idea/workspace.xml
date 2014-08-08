@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1107e143-c8a3-4f87-bb13-51a39147e0bc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controller/MenuController.js" afterPath="$PROJECT_DIR$/app/controller/MenuController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view/MenuView.js" afterPath="$PROJECT_DIR$/app/view/MenuView.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view/PesquisaView.js" afterPath="$PROJECT_DIR$/app/view/PesquisaView.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="1107e143-c8a3-4f87-bb13-51a39147e0bc" name="Default" comment="NAvegação&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/icons/ios/icon-114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/icons/ios/icon-144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/icons/winphone/icon-173.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/icons/android/icon-36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/icons/android/icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/icons/winphone/icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/icons/android/icon-57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/icons/ios/icon-57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/icons/android/icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/icons/ios/icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/icons/android/icon-96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/screen/android/screen-hdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/screen/ios/screen-iphone-portrait-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/screen/ios/screen-iphone-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/screen/ios/screen-iphone5-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/screen/android/screen-ldpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/screen/android/screen-mdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch/resources/screen/android/screen-xhdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/HomeView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="candidato-online.iws" />
@@ -38,19 +54,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="134" column="21" selection-start="8893" selection-end="8893" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2574">
+            <state line="4" column="50" selection-start="217" selection-end="217" vertical-scroll-proportion="0.15483871" vertical-offset="0" max-vertical-offset="2574">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="57" selection-start="576" selection-end="576" vertical-scroll-proportion="0.25862068" vertical-offset="0" max-vertical-offset="696">
+            <state line="12" column="6" selection-start="591" selection-end="591" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="414">
               <folding />
             </state>
           </provider>
@@ -224,42 +240,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="candidato-online" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="candidato-online" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="candidato-online" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="candidato-online" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -369,7 +349,11 @@
       <created>1407519947608</created>
       <updated>1407519947608</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="NAvegação&#10;">
+      <created>1407522152414</created>
+      <updated>1407522152414</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -397,7 +381,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866243" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866243" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32866243" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -554,13 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="21" selection-start="8893" selection-end="8893" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2574">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/view/HomeView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="13" selection-start="881" selection-end="881" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1998">
@@ -618,7 +595,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="57" selection-start="576" selection-end="576" vertical-scroll-proportion="0.25862068" vertical-offset="0" max-vertical-offset="696">
+        <state line="12" column="6" selection-start="591" selection-end="591" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="414">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="50" selection-start="217" selection-end="217" vertical-scroll-proportion="0.15483871" vertical-offset="0" max-vertical-offset="2574">
           <folding />
         </state>
       </provider>
