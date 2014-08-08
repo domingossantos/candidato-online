@@ -2,6 +2,550 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1107e143-c8a3-4f87-bb13-51a39147e0bc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controller/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/form/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/model/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/store/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/temp/production/CandidatoOnline/sencha-compiler/app/full-page-master-bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/temp/production/CandidatoOnline/sencha-compiler/cmd-packages.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/icons/Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/icons/Icon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/icons/Icon_Android36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/icons/Icon_Android48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/icons/Icon~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/icons/Icon~ipad@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/icons/iTunesArtwork.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/icons/icon-spot~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/loading/Default-Landscape@2x~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/loading/Default-LandscapeLeft~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/loading/Default-LandscapeRight~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/loading/Default-Landscape~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/loading/Default-Portrait@2x~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/loading/Default-PortraitUpsideDown~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/loading/Default-Portrait~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/loading/Default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/loading/Default@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/loading/Default~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/app.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/ios7/ios7.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/ios7/ios7.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/ios7/ios7.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/ios7/ios7.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/pictos/pictos-web.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/pictos/pictos-web.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/pictos/pictos-web.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/pictos/pictos-web.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/tizen/TizenSansMedium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/tizen/TizenSansRegular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/tizen/tizen-icon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/tizen/tizen-icon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/tizen/tizen-icon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/stylesheets/fonts/tizen/tizen-icon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/startup/1496x2048.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/startup/1536x2008.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/startup/320x460.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/startup/640x920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/startup/748x1024.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/startup/768x1004.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/cmd/sencha.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/file-header.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/microloader/development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/microloader/production.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/microloader/testing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/sencha-touch-debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/sencha-touch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/AbstractComponent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/AbstractManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/AbstractPlugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ActionSheet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Anim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/AnimationQueue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/BingMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ComponentManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ComponentQuery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Container.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/DateExtras.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Decorator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Evented.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Img.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ItemCollection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Label.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/LoadMask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Mask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/MessageBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Panel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ProgressIndicator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Promise.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/SegmentedButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Sheet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Spacer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/TaskQueue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Title.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/TitleBar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Toolbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/Video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/XTemplate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/XTemplateCompiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/XTemplateParser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/app/Action.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/app/Application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/app/Controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/app/History.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/app/Profile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/app/Route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/app/Router.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/behavior/Behavior.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/behavior/Draggable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/behavior/Droppable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/behavior/Scrollable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/behavior/Sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/behavior/Translatable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/carousel/Carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/carousel/Indicator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/carousel/Infinite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/carousel/Item.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/EventManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/Ext-more.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/Ext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/class/Base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/class/Class.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/class/ClassManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/class/Loader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/lang/Array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/lang/Date.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/lang/Error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/lang/Function.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/lang/JSON.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/lang/Number.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/lang/Object.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/lang/String.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/core/version/Version.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/ArrayStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/Batch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/Connection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/DirectStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/Error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/Errors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/Field.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/JsonP.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/JsonStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/Model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/ModelManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/NodeInterface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/NodeStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/Operation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/Request.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/ResultSet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/SortTypes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/Store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/StoreManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/TreeStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/Types.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/Validations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/association/Association.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/association/BelongsTo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/association/HasMany.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/association/HasOne.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/identifier/Sequential.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/identifier/Simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/identifier/Uuid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/plugin/Buffered.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/Ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/Client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/Direct.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/JsonP.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/LocalStorage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/Memory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/Proxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/Rest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/Server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/SessionStorage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/Sql.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/proxy/WebStorage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/reader/Array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/reader/Json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/reader/Reader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/reader/Xml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/writer/Json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/writer/Writer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/data/writer/Xml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dataview/DataView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dataview/IndexBar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dataview/List.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dataview/ListItemHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dataview/NestedList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dataview/component/Container.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dataview/component/DataItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dataview/component/ListItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dataview/component/SimpleListItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dataview/element/Container.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dataview/element/List.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Accelerometer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Camera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Capture.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Communicator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Compass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Connection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Contacts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Device.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/FileSystem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Geolocation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Globalization.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Notification.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Orientation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Purchases.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Push.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/SQLite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Splashscreen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Storage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/Tunnel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/accelerometer/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/accelerometer/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/accelerometer/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/browser/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/browser/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/browser/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/browser/Window.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/camera/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/camera/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/camera/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/camera/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/capture/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/capture/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/communicator/Android.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/communicator/Default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/compass/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/compass/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/compass/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/connection/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/connection/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/connection/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/connection/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/contacts/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/contacts/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/contacts/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/device/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/device/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/device/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/device/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/filesystem/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/filesystem/Chrome.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/filesystem/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/filesystem/HTML5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/filesystem/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/filesystem/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/geolocation/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/geolocation/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/geolocation/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/geolocation/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/globalization/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/globalization/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/globalization/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/media/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/media/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/notification/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/notification/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/notification/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/notification/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/orientation/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/orientation/HTML5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/orientation/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/purchases/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/push/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/push/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/push/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/splashscreen/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/splashscreen/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/splashscreen/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/sqlite/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/storage/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/storage/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/storage/HTML5/Database.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/storage/HTML5/HTML5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/storage/HTML5/SQLStatement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/storage/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/tunnel/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/tunnel/Connection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/tunnel/Sencha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/device/tunnel/Simulator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/direct/Event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/direct/ExceptionEvent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/direct/JsonProvider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/direct/Manager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/direct/PollingProvider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/direct/Provider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/direct/RemotingEvent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/direct/RemotingMethod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/direct/RemotingProvider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/direct/Transaction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dom/CompositeElement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dom/CompositeElementLite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dom/Element.alignment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dom/Element.insertion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dom/Element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dom/Element.position.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dom/Element.static.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dom/Element.style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dom/Element.traversal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dom/Helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/dom/Query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/env/Browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/env/Feature.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/env/OS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/Controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/Dispatcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/Dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/Event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/ListenerStack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/Touch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/publisher/ComponentDelegation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/publisher/ComponentPaint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/publisher/ComponentSize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/publisher/Dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/publisher/ElementPaint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/publisher/ElementSize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/publisher/Publisher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/publisher/TouchGesture.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/DoubleTap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/Drag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/EdgeSwipe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/HorizontalSwipe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/LongPress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/MultiTouch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/Pinch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/Recognizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/Rotate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/SingleTouch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/Swipe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/Tap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/Touch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/event/recognizer/VerticalSwipe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Checkbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/DatePicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/DatePickerNative.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Email.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Field.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/File.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/FileInput.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Hidden.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Input.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Number.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Password.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Radio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Spinner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/TextArea.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/TextAreaInput.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Toggle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/field/Url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/form/FieldSet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/form/Panel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/Animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/Easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/Runner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/State.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/animation/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/animation/Cube.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/animation/Fade.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/animation/FadeOut.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/animation/Flip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/animation/Pop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/animation/PopOut.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/animation/Slide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/animation/SlideOut.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/animation/Wipe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/animation/WipeOut.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/easing/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/easing/Bounce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/easing/BoundMomentum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/easing/EaseIn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/easing/EaseOut.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/easing/Linear.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/easing/Momentum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/Card.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/Cover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/Cube.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/Fade.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/Flip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/Pop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/Reveal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/Scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/ScrollCover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/ScrollReveal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/Slide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/layout/card/Style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/runner/Css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/runner/CssAnimation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/fx/runner/CssTransition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/Box.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/Card.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/Default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/Fit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/FlexBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/Float.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/HBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/VBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/wrapper/BoxDock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/wrapper/Dock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/layout/wrapper/Inner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/locale/ext-lang-en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/log/Base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/log/Logger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/log/filter/Filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/log/filter/Priority.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/log/formatter/Default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/log/formatter/Formatter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/log/formatter/Identity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/log/writer/Console.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/log/writer/DocumentTitle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/log/writer/Remote.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/log/writer/Writer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/mixin/Bindable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/mixin/Filterable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/mixin/Identifiable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/mixin/Mixin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/mixin/Observable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/mixin/Progressable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/mixin/Selectable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/mixin/Sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/mixin/Templatable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/mixin/Traversable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/navigation/Bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/navigation/View.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/picker/Date.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/picker/Picker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/picker/Slot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/proxies/SyncProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/proxies/SyncStorageProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/stores/SyncStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/Array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/CS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/CSGenerator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/CSV.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/Clock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/Config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/DatabaseDefinition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/Protocol.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/SyncModel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/UUIDGenerator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/Updates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/platform/src/data/sync/Utilities.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/plugin/BufferedList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/plugin/ListPaging.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/plugin/PullRefresh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/plugin/SortableList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/scroll/Indicator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/scroll/Scroller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/scroll/View.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/scroll/indicator/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/scroll/indicator/CssTransform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/scroll/indicator/Rounded.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/scroll/indicator/ScrollPosition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/slider/Slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/slider/Thumb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/slider/Toggle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/tab/Bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/tab/Panel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/tab/Tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/table/Cell.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/table/Row.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/table/Table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/AbstractMixedCollection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/BufferedCollection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Collection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/DelayedTask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Draggable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Droppable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Format.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Geolocation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Grouper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/HashMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Inflector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/InputBlocker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/JSON.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/LineSegment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/MixedCollection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Offset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/PaintMonitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Point.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/PositionMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Region.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/SizeMonitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Sorter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/TapRepeater.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Translatable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/TranslatableGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/TranslatableList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/Wrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/paintmonitor/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/paintmonitor/CssAnimation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/paintmonitor/OverflowChange.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/sizemonitor/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/sizemonitor/Default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/sizemonitor/OverflowChange.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/sizemonitor/Scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/translatable/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/translatable/CssPosition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/translatable/CssTransform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/translatable/Dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/util/translatable/ScrollPosition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/ActionOverFlowMenuButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/ApplicationMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/ContextMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/MenuButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/TabMenuButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/device/Analytics.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/device/Twitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/device/analytics/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/device/analytics/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/device/twitter/Abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/device/twitter/Cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/parse/Helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/parse/Model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/parse/Proxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/parse/Reader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/parse/Store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/parse/association/Pointer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/ux/parse/association/Relation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/viewport/Android.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/viewport/Default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/viewport/Ios.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/viewport/Viewport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/src/viewport/WindowsPhone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/touch/version.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/touch/sencha-touch-all.js" afterPath="$PROJECT_DIR$/touch/sencha-touch-all.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="candidato-online.iws" />
@@ -28,10 +572,8 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0" vertical-offset="529" max-vertical-offset="1206">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="13" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="439" max-vertical-offset="720">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -39,7 +581,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="88" selection-start="1603" selection-end="1603" vertical-scroll-proportion="-7.4074073" vertical-offset="736" max-vertical-offset="1224">
+            <state line="7" column="7" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
               <folding />
             </state>
           </provider>
@@ -48,16 +590,7 @@
       <file leaf-file-name="development.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.sencha/app/microloader/development.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.9417477" vertical-offset="2545" max-vertical-offset="3492">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/view/Main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="18" selection-start="143" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1008">
+            <state line="152" column="9" selection-start="5215" selection-end="5215" vertical-scroll-proportion="0.49056605" vertical-offset="2424" max-vertical-offset="3492">
               <folding />
             </state>
           </provider>
@@ -75,9 +608,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="41" />
-    <option name="y" value="24" />
-    <option name="width" value="1559" />
-    <option name="height" value="876" />
+    <option name="y" value="-4" />
+    <option name="width" value="1325" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -105,6 +638,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -123,37 +657,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="candidato-online" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="candidato-online" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="touch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="candidato-online" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="candidato-online" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,29 +733,33 @@
       <created>1407440589617</created>
       <updated>1407440589617</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit&#10;">
+      <created>1407440912449</created>
+      <updated>1407440912449</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="24" width="1559" height="876" extended-state="6" />
+    <frame x="41" y="-4" width="1325" height="772" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24951892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24905661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -275,55 +784,65 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/touch/microloader/development.js">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-5.6757283" vertical-offset="2923" max-vertical-offset="3438">
+        <state line="18" column="0" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0" vertical-offset="529" max-vertical-offset="1206">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/Main.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="143" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1008">
+        <state line="52" column="88" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0" vertical-offset="736" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.sencha/app/microloader/development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="71" selection-start="5312" selection-end="5312" vertical-scroll-proportion="0.0" vertical-offset="2424" max-vertical-offset="3492">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0" vertical-offset="529" max-vertical-offset="1206">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="18" column="0" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1206">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="88" selection-start="1603" selection-end="1603" vertical-scroll-proportion="-7.4074073" vertical-offset="736" max-vertical-offset="1224">
+        <state line="52" column="88" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0" vertical-offset="736" max-vertical-offset="1224">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="502">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="25110">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.sencha/app/microloader/development.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.9417477" vertical-offset="2545" max-vertical-offset="3492">
+        <state line="156" column="25" selection-start="5338" selection-end="5338" vertical-scroll-proportion="0.0" vertical-offset="2383" max-vertical-offset="3492">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="439" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.sencha/app/microloader/development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="9" selection-start="5215" selection-end="5215" vertical-scroll-proportion="0.49056605" vertical-offset="2424" max-vertical-offset="3492">
           <folding />
         </state>
       </provider>
