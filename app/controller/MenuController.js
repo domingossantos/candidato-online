@@ -24,14 +24,14 @@ Ext.define('CandidatoOnline.controller.MenuController', {
     },
 
     abrirPesquisa:function(){
-        this.getMainView().avancar(2);
+        this.getMainView().avancar(1);
     },
 
     abrirContas:function(){
-        this.getMainView().avancar(3);
+        this.getMainView().avancar(2);
     },
 
     abrirUtil:function(){
-        this.getMainView().avancar(4);
+        this.getMainView().avancar(3);
     }
 });

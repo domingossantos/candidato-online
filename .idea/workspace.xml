@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1107e143-c8a3-4f87-bb13-51a39147e0bc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controller/MenuController.js" afterPath="$PROJECT_DIR$/app/controller/MenuController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view/MenuView.js" afterPath="$PROJECT_DIR$/app/view/MenuView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view/PesquisaView.js" afterPath="$PROJECT_DIR$/app/view/PesquisaView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="candidato-online.iws" />
@@ -25,15 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HomeView.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/view/HomeView.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="21" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="1998">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,19 +38,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="367" selection-end="367" vertical-scroll-proportion="0.22406639" vertical-offset="0" max-vertical-offset="2574">
+            <state line="134" column="21" selection-start="8893" selection-end="8893" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2574">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="9" selection-start="362" selection-end="372" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="360">
+            <state line="10" column="57" selection-start="576" selection-end="576" vertical-scroll-proportion="0.25862068" vertical-offset="0" max-vertical-offset="696">
               <folding />
             </state>
           </provider>
@@ -64,7 +59,7 @@
       <file leaf-file-name="MenuView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/view/MenuView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="30" selection-start="1075" selection-end="1075" vertical-scroll-proportion="0.0" vertical-offset="268" max-vertical-offset="1026">
+            <state line="40" column="14" selection-start="906" selection-end="906" vertical-scroll-proportion="0.0" vertical-offset="268" max-vertical-offset="1026">
               <folding />
             </state>
           </provider>
@@ -95,7 +90,7 @@
       <file leaf-file-name="PesquisaController.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controller/PesquisaController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="37" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+            <state line="18" column="30" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -103,10 +98,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ContaView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/ContaView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="48" selection-start="562" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="882">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MenuController.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controller/MenuController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="15" selection-start="291" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+            <state line="36" column="3" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -117,8 +121,10 @@
       <file leaf-file-name="PesquisaView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/view/PesquisaView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="6" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="846">
-              <folding />
+            <state line="16" column="10" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,18 +144,18 @@
       <list>
         <option value="$PROJECT_DIR$/app/controller/HomeController.js" />
         <option value="$PROJECT_DIR$/app/view/HomeView.js" />
-        <option value="$PROJECT_DIR$/app/controller/MenuController.js" />
         <option value="$PROJECT_DIR$/app/view/MainView.js" />
         <option value="$PROJECT_DIR$/app/view/ContaView.js" />
         <option value="$PROJECT_DIR$/app/controller/ContaController.html" />
         <option value="$PROJECT_DIR$/app/controller/ContaController.js" />
         <option value="$PROJECT_DIR$/app/view/UteisView.js" />
         <option value="$PROJECT_DIR$/app/controller/PesquisaController.js" />
-        <option value="$PROJECT_DIR$/app/view/PesquisaView.js" />
-        <option value="$PROJECT_DIR$/app/view/MenuView.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/app/view/PesquisaView.js" />
+        <option value="$PROJECT_DIR$/app/view/MenuView.js" />
+        <option value="$PROJECT_DIR$/app/controller/MenuController.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -359,7 +365,11 @@
       <created>1407510282846</created>
       <updated>1407510282846</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="NAvegação&#10;">
+      <created>1407519947608</created>
+      <updated>1407519947608</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -423,7 +433,8 @@
     <MESSAGE value="Ajuste no rumo projeto&#10;" />
     <MESSAGE value="JAnelas&#10;" />
     <MESSAGE value="Telas completas&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Telas completas&#10;" />
+    <MESSAGE value="NAvegação&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="NAvegação&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -455,7 +466,9 @@
     <entry file="file://$PROJECT_DIR$/app/view/PesquisaView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="162">
-          <folding />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -516,26 +529,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/ContaView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="42" selection-start="645" selection-end="658" vertical-scroll-proportion="0.54617417" vertical-offset="108" max-vertical-offset="882">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/view/UteisView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="38" selection-start="824" selection-end="824" vertical-scroll-proportion="0.8100264" vertical-offset="16" max-vertical-offset="918">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controller/PesquisaController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="37" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,29 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controller/MenuController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="15" selection-start="291" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/PesquisaView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="6" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/MenuView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="30" selection-start="1075" selection-end="1075" vertical-scroll-proportion="0.0" vertical-offset="268" max-vertical-offset="1026">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/view/MainView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="6" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0" vertical-offset="369" max-vertical-offset="1008">
@@ -580,16 +554,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="9" selection-start="362" selection-end="372" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="360">
+        <state line="134" column="21" selection-start="8893" selection-end="8893" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2574">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/view/HomeView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="21" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="1998">
+        <state line="35" column="13" selection-start="881" selection-end="881" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1998">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controller/PesquisaController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="30" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/ContaView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="48" selection-start="562" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="882">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/PesquisaView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="10" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/MenuView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="14" selection-start="906" selection-end="906" vertical-scroll-proportion="0.0" vertical-offset="268" max-vertical-offset="1026">
           <folding />
         </state>
       </provider>
@@ -601,9 +607,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
+    <entry file="file://$PROJECT_DIR$/app/controller/MenuController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="367" selection-end="367" vertical-scroll-proportion="0.22406639" vertical-offset="0" max-vertical-offset="2574">
+        <state line="36" column="3" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="57" selection-start="576" selection-end="576" vertical-scroll-proportion="0.25862068" vertical-offset="0" max-vertical-offset="696">
           <folding />
         </state>
       </provider>

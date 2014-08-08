@@ -44,7 +44,7 @@ Ext.define('CandidatoOnline.view.MenuView',{
                 xtype: 'button',
                 ui: 'confirm',
                 width: '70%',
-                text: 'Fones Uteis'
+                text: 'Fones Úteis'
             }
 
         ]

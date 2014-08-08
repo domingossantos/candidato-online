@@ -1,15 +1,6 @@
 /**
  * Created by domingos on 8/7/14.
  */
-/**
- * Created by domingos on 8/8/14.
- */
-/**
- * Created by domingos on 8/7/14.
- */
-/**
- * Created by domingos on 8/7/14.
- */
 Ext.define('CandidatoOnline.view.PesquisaView',{
     extend: 'Ext.Container',
     xtype: 'pesquisaView',
