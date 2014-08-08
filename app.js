@@ -16,7 +16,7 @@ Ext.application({
 
     launch: function(){
          // Initialize the main view
-        Ext.create('CandidatoOnline.view.HomeView', {fullscreen: true});
+        Ext.create('CandidatoOnline.view.MainView', {fullscreen: true});
 
     },
 
