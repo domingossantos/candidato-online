@@ -29,25 +29,16 @@ Ext.define('CandidatoOnline.view.PesquisaView',{
             {
                 xtype: 'titlebar',
                 docked: 'top',
-                title: 'Candidato Online - Pesquisa'
-            },
-            {
-                id: 'btPesquisa',
-                xtype: 'button',
-                ui: 'confirm',
-                width: '70%',
-                text: 'Pesquisa'
-            },
-            {
-                id: 'btContas',
-                xtype: 'button',
-                ui: 'confirm',
-                width: '70%',
-                text: 'Contas'
+                title: 'Candidato Online - Pesquisa',
+                items:[
+                    {
+                        id: 'btVoltarPesquisa',
+                        xtype: 'button',
+                        ui: 'back',
+                        text: 'Voltar'
+                    }
+                ]
             }
-
         ]
     }
-
-
 });

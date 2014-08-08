@@ -29,22 +29,17 @@ Ext.define('CandidatoOnline.view.UteisView',{
             {
                 xtype: 'titlebar',
                 docked: 'top',
-                title: 'Candidato Online - Fones Uteis'
-            },
-            {
-                id: 'btPesquisa',
-                xtype: 'button',
-                ui: 'confirm',
-                width: '70%',
-                text: 'Pesquisa'
-            },
-            {
-                id: 'btContas',
-                xtype: 'button',
-                ui: 'confirm',
-                width: '70%',
-                text: 'Contas'
+                title: 'Candidato Online - Fones Uteis',
+                items:[
+                    {
+                        id: 'btVoltarUteis',
+                        xtype: 'button',
+                        ui: 'back',
+                        text: 'Voltar'
+                    }
+                ]
             }
+
 
         ]
     }

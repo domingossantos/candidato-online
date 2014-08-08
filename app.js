@@ -8,16 +8,21 @@ Ext.application({
         autoMaximize: true
     },
 
+    views: [
+        'MainView'
+    ],
+
+    controllers: [
+        'HomeController',
+        'MenuController'
+    ],
+
     requires: [
         'Ext.MessageBox'
     ],
 
-
-
     launch: function(){
-         // Initialize the main view
         Ext.create('CandidatoOnline.view.MainView', {fullscreen: true});
-
     },
 
     onUpdated: function() {

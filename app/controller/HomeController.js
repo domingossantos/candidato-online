@@ -6,21 +6,17 @@ Ext.define('CandidatoOnline.controller.HomeController', {
 
     config:{
         refs:{
-            mainView: "#homeView",
+            mainView: "#mainView",
             btEntrar: "#btEntrar"
         },
         control:{
-            btbtEntrar:{
+            btEntrar:{
                 tap: 'abrirMenu'
             }
-        },
-        launch: function() {
-
-        },
-
-        abrirMenu:function(){
-            Ext.Viewport.hideMenu('left');
-            this.getMainView().avancar(1);
         }
+    },
+
+    abrirMenu:function(){
+        this.getMainView().avancar(1);
     }
 });

@@ -38,6 +38,13 @@ Ext.define('CandidatoOnline.view.MenuView',{
                 ui: 'confirm',
                 width: '70%',
                 text: 'Contas'
+            },
+            {
+                id: 'btUtil',
+                xtype: 'button',
+                ui: 'confirm',
+                width: '70%',
+                text: 'Fones Uteis'
             }
 
         ]

@@ -26,22 +26,18 @@ Ext.define('CandidatoOnline.view.ContaView',{
             {
                 xtype: 'titlebar',
                 docked: 'top',
-                title: 'Candidato Online - Conta'
-            },
-            {
-                id: 'btPesquisa',
-                xtype: 'button',
-                ui: 'confirm',
-                width: '70%',
-                text: 'Pesquisa'
-            },
-            {
-                id: 'btContas',
-                xtype: 'button',
-                ui: 'confirm',
-                width: '70%',
-                text: 'Contas'
+                title: 'Candidato Online - Conta',
+                items:[
+                    {
+                        id: 'btVoltarConta',
+                        xtype: 'button',
+                        ui: 'back',
+                        text: 'Voltar'
+                    }
+                ]
+
             }
+
 
         ]
     }
